@@ -1,4 +1,6 @@
 zebra
 giraffe
 elephant
+monkey
+lion
 
